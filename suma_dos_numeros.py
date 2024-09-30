@@ -1,0 +1,1 @@
+dólares = euros × 1.10 
