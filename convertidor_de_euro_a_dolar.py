@@ -5,4 +5,3 @@ num2 = float(1.10)
 #Realizamos la operación
 total = num1*num2
 print("El resultado de este cambio", num1, "*", num2, "=", total ," $")
-propina = factura × (porcentaje / 100) 
